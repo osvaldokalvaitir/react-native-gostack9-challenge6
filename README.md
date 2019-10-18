@@ -10,7 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Aplicação usando React Native, ESLint, Prettier, EditorConfig, React Navigation, styled-components, React Native Vector Icons, Axios, React Native Async Storage, prop-types e Reactotron.
+Aplicação usando React Native, ESLint, Prettier, EditorConfig, React Navigation, styled-components, React Native Vector Icons, Axios, React Native Async Storage, prop-types, React Native WebView e Reactotron.
 
 ## Desafio 06. Aplicação com React Native
 
@@ -82,6 +82,8 @@ Resultado:
 
   - [Usuário](#usuário)
 
+  - [Repositório](#repositório)
+
 - [Desenvolvimento](#desenvolvimento)
 
   - [Configuração do Ambiente](#configuração-do-ambiente)
@@ -109,6 +111,11 @@ Esta é a primeira tela, onde deve ser informado um usuário existente do GitHub
 
 ![User](/assets/user.png)
 Nesta tela estão todos os repositórios do GitHub favoritados pelo usuário, podendo também voltar para a tela principal.
+
+### Repositório
+
+![Repository](/assets/repository.png)
+Ao clicar em um repositório, será redicionado para esta tela que é uma WebView que exibe seu conteúdo.
 
 ## Desenvolvimento
 
@@ -147,6 +154,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [React Native Gesture Handler](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-gesture-handler.md)
 
 - [React Native Vector Icons](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-vector-icons.md)
+
+- [React Native WebView](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-webview.md)
 
 - [React Navigation](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-navigation.md)
 
