@@ -71,7 +71,7 @@ Exemplo de código:
 
 Resultado:
 
-![WebView](assets-desafio/exemplo-web-view.png)
+![WebView](assets/exemplo-web-view.png)
 
 
 ## Índice
