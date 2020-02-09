@@ -71,7 +71,7 @@ Exemplo de código:
 
 Resultado:
 
-![WebView](assets/exemplo-web-view.png)
+![WebView](/.github/assets/exemplo-web-view.png)
 
 
 ## Índice
@@ -104,17 +104,17 @@ Resultado:
 
 ### Principal
 
-![Main](/assets/main.png)
+![Main](/.github/assets/main.png)
 Esta é a primeira tela, onde deve ser informado um usuário existente do GitHub, que ao ser adicionado, ele aparecerá numa lista abaixo.
 
 ### Usuário
 
-![User](/assets/user.png)
+![User](/.github/assets/user.png)
 Nesta tela estão todos os repositórios do GitHub favoritados pelo usuário, podendo também voltar para a tela principal.
 
 ### Repositório
 
-![Repository](/assets/repository.png)
+![Repository](/.github/assets/repository.png)
 Ao clicar em um repositório, será redicionado para esta tela que é uma WebView que exibe seu conteúdo.
 
 ## Desenvolvimento
