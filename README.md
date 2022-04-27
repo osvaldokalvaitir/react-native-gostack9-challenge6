@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Click <a href="/.github/docs/challenge.md">here</a> to see the challenge description
+  :muscle: Click <a href="/.github/docs/challenge.md">here</a> to see the challenge description
 </p>
 
 <p align="center">
